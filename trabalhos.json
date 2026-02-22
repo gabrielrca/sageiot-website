@@ -1,0 +1,13 @@
+[
+    {
+        "id": 0,
+        "tipo": "Trabalho de Conclusão de Curso (TCC)",
+        "ano": "2026",
+        "titulo": "Título",
+        "autores": "Autores",
+        "lattes_autores": "http://lattes.cnpq.br/123, http://lattes.cnpq.br/456",
+        "orientador": "Prof. Gabriel Rodrigues Calads de Aquino",
+        "resumo": "Resumo.",
+        "pdf_url": "link"
+    }
+]

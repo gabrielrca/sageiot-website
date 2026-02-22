@@ -1,0 +1,22 @@
+{
+    "projeto": {
+        "nome": "SAGE-IoT",
+        "subtitulo": "Framework Baseado em IA para Gestão Adaptativa e Preditiva da Qualidade de Dados em Sistemas IoT",
+        "status": "Em andamento",
+        "natureza": "Pesquisa",
+        "descricao_longa": "Este projeto visa desenvolver e validar um framework de software, denominado SAGE-IoT. Este framework utiliza técnicas de Inteligência Artificial para gerenciar de forma preditiva e adaptativa a execução de tarefas de gestão da qualidade de dados (GQD).",
+        "areas": [
+            "Redes de Computadores",
+            "Sistemas Distribuídos",
+            "Inteligência Artificial",
+            "Engenharia de Software"
+        ],
+        "validacao": "Validação por meio de trabalhos experimentais e estudos de caso em cenários reais."
+    },
+    "objetivos": [
+        "Modelar o problema de agendamento dinâmico de tarefas de GQD como um problema de otimização multiobjetivo",
+        "Desenvolver modelos preditivos para antecipar falhas de qualidade",
+        "Implementar um agente de Aprendizado por Reforço para alocação inteligente de tarefas",
+        "Adaptar a arquitetura de componentes do framework Asclepius para suporte à reconfiguração dinâmica"
+    ]
+}
